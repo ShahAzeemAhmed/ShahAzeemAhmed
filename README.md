@@ -6,7 +6,6 @@
 
 
 **CyberSec Student** 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on <strong>CyberSecurity Prep... </strong>
 - 🌱 I’m currently learning <strong>CyberSecurity </strong>

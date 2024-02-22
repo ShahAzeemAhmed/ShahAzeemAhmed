@@ -1,8 +1,8 @@
 <img data-target="animated-image.replacedImage" class="AnimatedImagePlayer-animatedImage" src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/SoftwareEngineer_GIF.gif" style="display: block; opacity: 1;">
  
 
-<p></p>
- <h1><align="center"> Hi,👋I'm ShahAzeem Ahmed</align="center"></h1>
+<h1 align="center" dir="auto"> </path></svg></a>Hi 👋, I'm ShahAzeem Ahmed</h1>
+
 
 
 **ShahAzeemAhmed/ShahAzeemAhmed** is a ✨ _special_ ✨ repository because its 

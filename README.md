@@ -2,7 +2,7 @@
  
 
 <p></p>
- <h1><align="center"> Hi,👋I'm ShahAzeem Ahmed</align></h1>
+ <h1><align="center"> Hi,👋I'm ShahAzeem Ahmed</align="center"></h1>
 
 
 **ShahAzeemAhmed/ShahAzeemAhmed** is a ✨ _special_ ✨ repository because its 

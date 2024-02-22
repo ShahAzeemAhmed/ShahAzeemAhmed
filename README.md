@@ -7,7 +7,7 @@
 <h1 align="center" dir="auto"> </path></svg></a>CyberSec Student </h1>
 
 
-
+<img data-target="animated-image.replacedImage" alt="Coding" class="AnimatedImagePlayer-animatedImage" src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/CoderBoy.png" style="display: block; opacity: 1;">
 - 🔭 I’m currently working on <strong>CyberSecurity Prep... </strong>
 - 🌱 I’m currently learning <strong>CyberSecurity </strong>
 - 👯 I’m looking to collaborate on ...

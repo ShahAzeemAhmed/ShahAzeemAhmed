@@ -5,7 +5,7 @@
 
 
 
-**ShahAzeemAhmed/ShahAzeemAhmed** is a ✨ _special_ ✨ repository because its 
+**CyberSec Student** 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on <strong>CyberSecurity Prep... </strong>

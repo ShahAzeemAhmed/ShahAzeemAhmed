@@ -13,7 +13,7 @@
 - ⚡ Fun fact <strong> I'm funny </strong>
 <br></br>
 
-
+https://medium.com/@shahazeem.ahmed
 
 
 
@@ -22,3 +22,4 @@
 <p align="left" dir="auto"><a href="                                        " rel="nofollow"><img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://in.linkedin.com/in/shahazeem-ahmed" rel="nofollow"><img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://www.instagram.com/shahazeem_ahmed" rel="nofollow"><img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" style="max-width: 100%;"></a></p>
+<a href="https://in.linkedin.com/in/shahazeem-ahmed" rel="nofollow"><img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" style="max-width: 100%;"></a>

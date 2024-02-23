@@ -27,6 +27,7 @@
 
 
 
+<a href="[https://www.java.com](https://www.kali.org/)" rel="nofollow"> <img src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/Kali-dragon-icon.svg.svg" alt="kali" width="40" height="40" style="max-width: 100%;"> </a>
 
 
 <a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"> </a>

@@ -45,3 +45,14 @@
 <a href="https://www.kali.org/tools/john/" rel="nofollow"> <img src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/john.svg" alt="JohnTheRipper" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.metasploit.com/" rel="nofollow"> <img src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/icons8-metasploit-48.svg" alt="Metasploit" width="40" height="40" style="max-width: 100%;"> </a>
 
+
+<img align="left" src="https://camo.githubusercontent.com/11959215a335154a4e45e968d24d12711f0deff501af47b856f7a8569ada93ed/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7269736861766368616e64612673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874" alt="rishavchanda" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;">
+
+
+
+
+
+
+
+
+

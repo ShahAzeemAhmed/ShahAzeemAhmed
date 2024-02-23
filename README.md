@@ -21,5 +21,5 @@ https://medium.com/@shahazeem.ahmed
 
 <p align="left" dir="auto"><a href="                 " rel="nofollow"><img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://in.linkedin.com/in/shahazeem-ahmed" rel="nofollow"><img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://www.instagram.com/shahazeem_ahmed" rel="nofollow"><img align="middle" src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/instagram.svg" height="30" width="40" style="max-width: 100%;"></a></p>
-<a href="https://medium.com/@shahazeem.ahmed" rel="nofollow"><img align="middle" src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/medium(2).svg"  height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com/shahazeem_ahmed" rel="nofollow"><img align="middle" src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/instagram.svg" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://medium.com/@shahazeem.ahmed" rel="nofollow"><img align="middle" src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/medium(2).svg"  height="30" width="40" style="max-width: 100%;"></a></p>

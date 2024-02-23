@@ -42,6 +42,6 @@
 <a href="https://www.wireshark.org/download.html" rel="nofollow"> <img src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/Wireshark_icon_new(1).svg" alt="wireshark" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://portswigger.net/burp" rel="nofollow"> <img src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/https%20__res.cloudinary.com_snyk_image_upload_v1685628108_burpsuite-logo.svg" alt="BurpSuite" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.kali.org/tools/hydra/" rel="nofollow"> <img src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/hydra-logo.svg" alt="Hydra" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://www.kali.org/tools/john/" rel="nofollow"> <img src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/john.svg" alt="John" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.kali.org/tools/john/" rel="nofollow"> <img src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/john.svg" alt="JohnTheRipper" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.metasploit.com/" rel="nofollow"> <img src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/icons8-metasploit-48.svg" alt="Metasploit" width="40" height="40" style="max-width: 100%;"> </a>
 

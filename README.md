@@ -6,9 +6,9 @@
 
 
 <h1 align="center" dir="auto"> </path></svg></a>CyberSec Student </h1>
-<span data-target="animated-image.imageContainer">
-            <img align="right" data-target="animated-image.replacedImage" alt="Coding" class="AnimatedImagePlayer-animatedImage" src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/CoderBoy.png" style="display: block; opacity: 1 ;" width="500" height="700" style="max-width: 100%;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="400" height="300"></canvas></span>
+
+<img align="right" data-target="animated-image.replacedImage" alt="Coding" class="AnimatedImagePlayer-animatedImage" src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/CoderBoy.png" style="display: block; opacity: 1 ;" width="450" height="500" style="max-width: 100%;">
+    
 
           
 - 🔭 I’m currently working on <strong>CyberSecurity Prep... </strong>

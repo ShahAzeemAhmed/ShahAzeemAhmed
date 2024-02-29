@@ -7,7 +7,7 @@
 
 <h1 align="center" dir="auto"> </path></svg></a>CyberSec Student </h1>
 
-<img align="right" data-target="animated-image.replacedImage" alt="Coding" class="AnimatedImagePlayer-animatedImage" src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/CoderBoy.png" style="display: block; opacity: 1 ;" width="450" height="500" style="max-width: 100%;">
+<img align="right" data-target="animated-image.replacedImage" alt="Coding" class="AnimatedImagePlayer-animatedImage" src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/CoderBoy.png" style="display: block; opacity: 1 ;" width="300" height="300" style="max-width: 100%;">
     
 
           

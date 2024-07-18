@@ -3,14 +3,14 @@
 
 <h1 align="center">Hi 👋, I'm ShahAzeem Ahmed</h1>
 
-<h3 align="center">Software Engineer Student</h3>
+<h3 align="center"> Software Engineer Student</h3>
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/codergif.gif">
 
- - 🔭 I’m currently working on <strong>Sfotware Engineer</strong>
+ - 🔭 I’m currently working on <strong> Software Engineer</strong>
  
-- 🌱 I’m currently learning <strong>Kotlin || Android Development</strong>
+- 🌱 I’m currently learning <strong> Kotlin || Android Development</strong>
 
 - 💬 Ask me about basics <strong> Web Dev, UI/UX Design, CyberSec.</strong>
 

@@ -8,11 +8,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/codergif.gif">
 
- - 🔭 I’m currently working on <strong>CyberSecurity Prep... </strong>
+ - 🔭 I’m currently working on <strong>Sfotware Engineer</strong>
  
-- 🌱 I’m currently learning <strong>CyberSecurity </strong>
+- 🌱 I’m currently learning <strong>Kotlin || Android Development</strong>
 
-- 💬 Ask me about <strong> Web Dev, UI/UX Design, CyberSec.</strong>
+- 💬 Ask me about basics <strong> Web Dev, UI/UX Design, CyberSec.</strong>
 
 - 📫 How to reach me <strong><a href="mailto:ShahAzeemAhmed07@gmail.com">ShahAzeemAhmed07@gmail.com</a></strong>
 

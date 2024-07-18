@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm ShahAzeem Ahmed</h1>
 
-<h3 align="center">CyberSec Student</h3>
+<h3 align="center">Software Engineer Student</h3>
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/codergif.gif">

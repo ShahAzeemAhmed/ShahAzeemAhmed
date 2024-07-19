@@ -77,13 +77,13 @@
 <h3 align="left" dir="auto"><a id="user-content-connect-with-me" class="anchor" aria-hidden="true" tabindex="-1" href="#Language-and-Tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Java Core</h3>
 
 
-- 🎯I have a foundation in Java programming fundamentals learned through the ICSE 10th class curriculum."
+- 🎯I have a foundation in Java programming fundamentals learned through the ICSE 10th class curriculum. [2019]
   
 <strong><a href="https://www.linkedin.com/posts/shahazeem-ahmed_java-certificate-activity-6843569157544411136-_vnl/?utm_source=share&utm_medium=member_desktop">JAVA CORE</a></strong>
  <p>
 <h3 align="left" dir="auto"><a id="user-content-connect-with-me" class="anchor" aria-hidden="true" tabindex="-1" href="#Language-and-Tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Webcrafty Crew</h3>
   
-  - 🎯 WebCrafty Crew certification through a program held at [MIET] Meerut Institute of Engineering and Technology.In this program we all have to build our static website with HTML/CSS and JS,I build my website - simple static photograhpy portfolio website,where we can showcase our photograhpy on this portfolio website.
+  - 🎯 WebCrafty Crew certification through a program held at [MIET] Meerut Institute of Engineering and Technology.In this program we all have to build our static website with HTML/CSS and JS,I build my website - simple static photograhpy portfolio website,where we can showcase our photograhpy on this portfolio website.  [2021]
   
 <strong><a href="https://www.linkedin.com/posts/shahazeem-ahmed_webcrew-craft-certificate-activity-6935564207014703104-Nm3V?utm_source=share&utm_medium=member_desktop">Webcrafty Crew</a></strong>
 <p>

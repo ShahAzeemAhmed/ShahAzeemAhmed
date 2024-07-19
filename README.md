@@ -80,3 +80,6 @@
 
 <strong><a href="https://www.linkedin.com/posts/shahazeem-ahmed_java-certificate-activity-6843569157544411136-_vnl/?utm_source=share&utm_medium=member_desktop">JAVA CORE</a></strong>
  
+<strong><a href="https://www.linkedin.com/posts/shahazeem-ahmed_webcrew-craft-certificate-activity-6935564207014703104-Nm3V?utm_source=share&utm_medium=member_desktop">Webcrafty Crew</a></strong>
+
+<strong><a href="https://www.linkedin.com/posts/shahazeem-ahmed_ibm-activity-6914229711820718080-QDib?utm_source=share&utm_medium=member_desktop">IBM Innovation Camp: Data Science</a></strong>

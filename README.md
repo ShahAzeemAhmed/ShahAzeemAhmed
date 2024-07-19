@@ -76,5 +76,5 @@
 
 
 
-<strong><a href="[https://www.figma.com/design/OFOe75nRxUIMaCHDC1aUL6/Coffee-Bar-(Community)?node-id=0-1&t=O2sTH6Rx5eWv7zk5-1](https://www.linkedin.com/posts/shahazeem-ahmed_java-certificate-activity-6843569157544411136-_vnl?utm_source=share&utm_medium=member_desktop)">JAVA CORE</a></strong>
+<strong><a href="https://www.linkedin.com/posts/shahazeem-ahmed_java-certificate-activity-6843569157544411136-_vnl/?utm_source=share&utm_medium=member_desktop">JAVA CORE</a></strong>
  

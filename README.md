@@ -2,10 +2,12 @@
 
 
 <h1 align="center">Hi 👋, I'm ShahAzeem Ahmed</h1>
-<h1>ShahAzeem Ahemd</h1>
-<h3> Software Engineer Student</h3>
-<br>
+ 
+<h1> Software Engineer Student</h1>
+
 <h5>Mit || B.tech || C.S.E || Student</h5>
+br
+
 <p>
 MEERUT INSTITUTE OF TECHNOLOGY, BARAL, PARTAPUR, MEERUT (U.P)</p>
 <p> Bachelor of Technology - BTech</p>

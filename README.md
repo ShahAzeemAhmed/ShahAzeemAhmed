@@ -8,7 +8,7 @@
 <h5> Mit || B.tech || C.S.E || Student</h5>
 <p style="font-size: 10px;">Meerut Institute of Technology</p>
 <br>
-<p style="font-size: 5px;"> I am currently a freshman pursuing B.Tech Degree in Computer Science and Engineering.
+<p style="font-size: 4px;"> I am currently a freshman pursuing B.Tech Degree in Computer Science and Engineering.
 Being a tech freak, technology has always grabbed my attention.
 I constantly work upon improving myself and strive to reach towards my goal with the aid of my teachers, senior, YouTube and google
 

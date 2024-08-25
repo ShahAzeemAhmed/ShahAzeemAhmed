@@ -8,7 +8,7 @@
 <h5>Mit || B.tech || C.S.E || Student</h5>
  <br>
 
-<p>
+<p style="font-size: 12px;">This is a small paragraph.</p>
 MEERUT INSTITUTE OF TECHNOLOGY, BARAL, PARTAPUR, MEERUT (U.P)</p>
 <p> Bachelor of Technology - BTech</p>
  <p>Computer Science and Engineering Aug 2021 - Mar 2025</p>

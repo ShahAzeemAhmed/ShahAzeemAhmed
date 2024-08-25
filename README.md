@@ -7,8 +7,9 @@
 <br>
 <p>Mit || B.tech || C.S.E || Student</p>
 <p>
-MEERUT INSTITUTE OF TECHNOLOGY, BARAL, PARTAPUR, MEERUTMEERUT INSTITUTE OF TECHNOLOGY, BARAL, PARTAPUR, MEERUT
-Bachelor of Technology - BTech, Computer science and engineering Bachelor of Technology - BTech, Computer science and engineering Aug 2021 - Mar 2025</p>
+MEERUT INSTITUTE OF TECHNOLOGY, BARAL, PARTAPUR, MEERUT (U.P)</p>
+<p> Bachelor of Technology - BTech</p>
+ <p>Computer Science and Engineering Aug 2021 - Mar 2025</p>
 
 <p>I am currently a freshman pursuing B.Tech Degree in Computer Science and Engineering.
 Being a tech freak, technology has always grabbed my attention.

@@ -5,6 +5,26 @@
 
 <h3 align="center"> Software Engineer Student</h3>
 <br>
+<p>I am currently a freshman pursuing B.Tech Degree in Computer Science and Engineering.
+Being a tech freak, technology has always grabbed my attention.
+I constantly work upon improving myself and strive to reach towards my goal with the aid of my teachers, senior, YouTube and google
+
+
+Programming Languages: Kotlin, Python, Java, C
+
+Backend Development: Ktor
+
+Frontend Development: Kotlin (Android)
+
+UI/UX Design: Figma
+
+Mobile Development: Android Studio
+
+Web Development: HTML, CSS
+
+Tools: Android Studio, IntelliJ IDEA, Visual Studio Code, Adobe illustrator, Adobe Photoshop, 
+
+Operating Systems: Windows, Linux</p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/codergif.gif">
 

@@ -6,6 +6,10 @@
 <h3 align="center"> Software Engineer Student</h3>
 <br>
 <p>Mit || B.tech || C.S.E || Student</p>
+<p>
+MEERUT INSTITUTE OF TECHNOLOGY, BARAL, PARTAPUR, MEERUTMEERUT INSTITUTE OF TECHNOLOGY, BARAL, PARTAPUR, MEERUT
+Bachelor of Technology - BTech, Computer science and engineering Bachelor of Technology - BTech, Computer science and engineering Aug 2021 - Mar 2025</p>
+
 <p>I am currently a freshman pursuing B.Tech Degree in Computer Science and Engineering.
 Being a tech freak, technology has always grabbed my attention.
 I constantly work upon improving myself and strive to reach towards my goal with the aid of my teachers, senior, YouTube and google

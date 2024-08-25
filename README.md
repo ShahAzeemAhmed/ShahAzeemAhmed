@@ -6,8 +6,6 @@
 <h1> Software Engineer Student</h1>
 
 <h5> Mit || B.tech || C.S.E || Student</h5>
- <br>
-
 <p style="font-size: 10px;">Meerut Institute of Technology</p>
 <br>
 <p> I am currently a freshman pursuing B.Tech Degree in Computer Science and Engineering.

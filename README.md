@@ -132,5 +132,5 @@ I constantly work upon improving myself and strive to reach towards my goal with
 
 
  <p> Kotlin || Python || Java || C || Ktor || HTML || CSS </p>
- <p> Android Studio || Figma || IntelliJ IDEA || Visual Studio Code|| Adobe XD || Adobe illustration/Photoshop || Linux || Win </p>
+ <p> Android Studio || Figma || IntelliJ IDEA || Visual Studio Code || Adobe XD || Adobe illustration/Photoshop || Linux || Win </p>
  

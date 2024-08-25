@@ -6,7 +6,7 @@
 <h1> Software Engineer Student</h1>
 
 <h5>Mit || B.tech || C.S.E || Student</h5>
-br
+ <br>
 
 <p>
 MEERUT INSTITUTE OF TECHNOLOGY, BARAL, PARTAPUR, MEERUT (U.P)</p>

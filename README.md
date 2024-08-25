@@ -8,26 +8,7 @@
 <h5> Mit || B.tech || C.S.E || Student</h5>
 <p style="font-size: 10px;">Meerut Institute of Technology</p>
 <br>
-<p style="font-size: 4px;"> I am currently a freshman pursuing B.Tech Degree in Computer Science and Engineering.
-Being a tech freak, technology has always grabbed my attention.
-I constantly work upon improving myself and strive to reach towards my goal with the aid of my teachers, senior, YouTube and google
 
-
-Programming Languages: Kotlin, Python, Java, C
-
-Backend Development: Ktor
-
-Frontend Development: Kotlin (Android)
-
-UI/UX Design: Figma
-
-Mobile Development: Android Studio
-
-Web Development: HTML, CSS
-
-Tools: Android Studio, IntelliJ IDEA, Visual Studio Code, Adobe illustrator, Adobe Photoshop, 
-
-Operating Systems: Windows, Linux</p>
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/codergif.gif">
@@ -118,3 +99,24 @@ Operating Systems: Windows, Linux</p>
 - 🎯I have done this certification program in my first college first year,IBM Innovation Camp: Data Science certificate in December 2021
  
 <strong><a href="https://www.linkedin.com/posts/shahazeem-ahmed_ibm-activity-6914229711820718080-QDib?utm_source=share&utm_medium=member_desktop">IBM Innovation Camp: Data Science</a></strong>
+
+<p style="font-size: 4px;"> I am currently a freshman pursuing B.Tech Degree in Computer Science and Engineering.
+Being a tech freak, technology has always grabbed my attention.
+I constantly work upon improving myself and strive to reach towards my goal with the aid of my teachers, senior, YouTube and google
+
+
+Programming Languages: Kotlin, Python, Java, C
+
+Backend Development: Ktor
+
+Frontend Development: Kotlin (Android)
+
+UI/UX Design: Figma
+
+Mobile Development: Android Studio
+
+Web Development: HTML, CSS
+
+Tools: Android Studio, IntelliJ IDEA, Visual Studio Code, Adobe illustrator, Adobe Photoshop, 
+
+Operating Systems: Windows, Linux</p>

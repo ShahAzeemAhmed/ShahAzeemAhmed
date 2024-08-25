@@ -7,8 +7,7 @@
 
 <h5> Mit || B.tech || C.S.E || Student</h5>
 <p style="font-size: 10px;">Meerut Institute of Technology</p>
-
-<br>
+ 
 <img align="right" alt="Coding" width="400" src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/codergif.gif">
 
  - 🔭 I’m currently working on <strong> Software Engineer</strong>

@@ -25,6 +25,7 @@ Web Development: HTML, CSS
 Tools: Android Studio, IntelliJ IDEA, Visual Studio Code, Adobe illustrator, Adobe Photoshop, 
 
 Operating Systems: Windows, Linux</p>
+<br>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/codergif.gif">
 

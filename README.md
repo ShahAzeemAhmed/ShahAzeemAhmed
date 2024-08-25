@@ -131,18 +131,6 @@ Being a tech freak, technology has always grabbed my attention.
 I constantly work upon improving myself and strive to reach towards my goal with the aid of my teachers, senior, YouTube and google
 
 
-Programming Languages: Kotlin, Python, Java, C
-
-Backend Development: Ktor
-
-Frontend Development: Kotlin (Android)
-
-UI/UX Design: Figma
-
-Mobile Development: Android Studio
-
-Web Development: HTML, CSS
-
-Tools: Android Studio, IntelliJ IDEA, Visual Studio Code, Adobe illustrator, Adobe Photoshop, 
-
-Operating Systems: Windows, Linux</p>
+ Kotlin, Python, Java, C, Ktor, HTML, CSS
+ Figma, Adobe XD, Adobe illustration, Linux, Win
+ 

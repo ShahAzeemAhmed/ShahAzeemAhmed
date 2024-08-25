@@ -97,6 +97,7 @@
 - 🎯I have done this certification program in my first college first year,IBM Innovation Camp: Data Science certificate in December 2021
  
 <strong><a href="https://www.linkedin.com/posts/shahazeem-ahmed_ibm-activity-6914229711820718080-QDib?utm_source=share&utm_medium=member_desktop">IBM Innovation Camp: Data Science</a></strong>
+<br>
 <hr>
 
 <h4>Summary</h4>

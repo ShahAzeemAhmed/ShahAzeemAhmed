@@ -131,6 +131,6 @@ Being a tech freak, technology has always grabbed my attention.
 I constantly work upon improving myself and strive to reach towards my goal with the aid of my teachers, senior, YouTube and google
 
 
- <p>Kotlin, Python, Java, C, Ktor, HTML, CSS</p>
- <p>Figma, Adobe XD, Adobe illustration, Linux, Win</p>
+ <p> Kotlin || Python || Java || C || Ktor || HTML || CSS </p>
+ <p> Android Studio || Figma || IntelliJ IDEA || Visual Studio Code|| Adobe XD || Adobe illustration/Photoshop || Linux || Win </p>
  

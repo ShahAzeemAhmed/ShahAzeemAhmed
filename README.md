@@ -6,7 +6,7 @@
 <h1> Software Engineer Student</h1>
 
 <h5> Mit || B.tech || C.S.E || Student</h5>
-<p style="font-size: 10px;">Meerut Institute of Technology</p>
+<p style="font-size: 10px;"> 🎓 Meerut Institute of Technology</p>
  
 <img align="right" alt="Coding" width="400" src="https://github.com/ShahAzeemAhmed/ShahAzeemAhmed/blob/main/codergif.gif">
 

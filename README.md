@@ -18,6 +18,8 @@
 
 - 💬 Ask me about basics <strong> Web Dev, UI/UX Design, CyberSec.</strong>
 
+- 📫How to reach me <strong><a href="mailto:shahazeem.ahmed.cs.2021@mitmeerut.ac.in">shahazeem.ahmed.cs.2021@mitmeerut.ac.in</a></strong>
+
 - 📫 How to reach me <strong><a href="mailto:ShahAzeemAhmed07@gmail.com">ShahAzeemAhmed07@gmail.com</a></strong>
 
 - ⚡ Fun fact <strong> I'm funny </strong>

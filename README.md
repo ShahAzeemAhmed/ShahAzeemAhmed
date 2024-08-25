@@ -99,7 +99,9 @@
 - 🎯I have done this certification program in my first college first year,IBM Innovation Camp: Data Science certificate in December 2021
  
 <strong><a href="https://www.linkedin.com/posts/shahazeem-ahmed_ibm-activity-6914229711820718080-QDib?utm_source=share&utm_medium=member_desktop">IBM Innovation Camp: Data Science</a></strong>
+<br>
 
+<h6>Summary</h6>
 <p style="font-size: 4px;"> I am currently a freshman pursuing B.Tech Degree in Computer Science and Engineering.
 Being a tech freak, technology has always grabbed my attention.
 I constantly work upon improving myself and strive to reach towards my goal with the aid of my teachers, senior, YouTube and google

@@ -24,6 +24,10 @@
 
 - ⚡ Fun fact <strong> I'm funny </strong>
 
+- 📑 Resume : <strong><a https://shahazeemahmed.github.io/Portfolio/assets/images/ShahAzeem%20Ahmed%20Resume.pdf">Resume</a></strong>
+
+
+
 
 
 <p>

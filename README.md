@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact <strong> I'm funny </strong>
 
-- 📑 Resume : <strong><a href="https://shahazeemahmed.github.io/Portfolio/assets/images/ShahAzeem%20Ahmed%20Resume.pdf">Resume</a></strong>
+- 📑 Resume : <strong><a href="https://shahazeemahmed.github.io/Portfolio/assets/images/ShahAzeem%20Ahmed%20Resume.pdf">ShahAzeem Ahmed</a></strong>
 
 
 

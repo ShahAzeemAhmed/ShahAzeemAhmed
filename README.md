@@ -94,25 +94,25 @@
 
 - 📋This is my first Web Design, Coffee Bar A warm and inviting atmosphere for a coffee bar website with cozy colors, and easy navigation. Design for seamless viewing.
   
-- 🖌️ UI/UX DESIGN : <strong><a href="https://www.figma.com/design/OFOe75nRxUIMaCHDC1aUL6/Coffee-Bar-(Community)?node-id=0-1&t=O2sTH6Rx5eWv7zk5-1">Coffee Bar</a></strong>
+- 🖌️ WEB DESIGN : <strong><a href="https://www.figma.com/design/OFOe75nRxUIMaCHDC1aUL6/Coffee-Bar-(Community)?node-id=0-1&t=O2sTH6Rx5eWv7zk5-1">Coffee Bar</a></strong>
 
 
 
 - 📋Designed a structured, non-responsive portfolio website to showcase my projects, skills, and experience with a clean UI and smooth interactions.
   
-- 🖌️ UI/UX DESIGN : <strong><a href="https://www.figma.com/design/KkrhE3XRWKC9b9fgyxn5ts/Web-Design-Case-Study-%232?node-id=58-1238&t=D3ixKSYwqhkUyJ06-0">Portfolio Website Design</a></strong>
+- 🖌️ WEB DESIGN : <strong><a href="https://www.figma.com/design/KkrhE3XRWKC9b9fgyxn5ts/Web-Design-Case-Study-%232?node-id=58-1238&t=D3ixKSYwqhkUyJ06-0">Portfolio Website Design</a></strong>
 
 
 
-- 📋This is my first Web Design, Coffee Bar A warm and inviting atmosphere for a coffee bar website with cozy colors, and easy navigation. Design for seamless viewing.
+- 📋Designed a simple and clean UI for WallMark, a wallpaper app. The design is easy to use, with a neat layout and smooth interactions for a better user experience.
   
-- 🖌️ UI/UX DESIGN : <strong><a href="https://www.figma.com/design/PeBnrz54fwrcwAdgMFOOcK/WallMark-(WM)?node-id=0-1&t=MM1kpYNkdDAdn5ek-1">Wallpaper App Design</a></strong>
+- 🖌️ APP DESIGN : <strong><a href="https://www.figma.com/design/PeBnrz54fwrcwAdgMFOOcK/WallMark-(WM)?node-id=0-1&t=MM1kpYNkdDAdn5ek-1">Wallpaper App Design</a></strong>
 
 
 
-- 📋This is my first Web Design, Coffee Bar A warm and inviting atmosphere for a coffee bar website with cozy colors, and easy navigation. Design for seamless viewing.
+- 📋Created a unique and innovative app design concept for NearSync. This prototype explores a seamless way to share data across devices with a simple and user-friendly interface. The design is not final but represents the core idea and functionality.
   
-- 🖌️ UI/UX DESIGN : <strong><a href="https://www.figma.com/design/1aUpeTV00qpLVQTno7v7kx/NearSync?node-id=0-1&p=f&t=HMolsb5NpW9zY0zE-0">NearSync App Design</a></strong>
+- 🖌️ APP DESIGN : <strong><a href="https://www.figma.com/design/1aUpeTV00qpLVQTno7v7kx/NearSync?node-id=0-1&p=f&t=HMolsb5NpW9zY0zE-0">NearSync App Design</a></strong>
 
 
 

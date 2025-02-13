@@ -98,7 +98,7 @@
 
 
 
-- 📋This is my first Web Design, Coffee Bar A warm and inviting atmosphere for a coffee bar website with cozy colors, and easy navigation. Design for seamless viewing.
+- 📋Designed a structured, non-responsive portfolio website to showcase my projects, skills, and experience with a clean UI and smooth interactions.
   
 - 🖌️ UI/UX DESIGN : <strong><a href="https://www.figma.com/design/KkrhE3XRWKC9b9fgyxn5ts/Web-Design-Case-Study-%232?node-id=58-1238&t=D3ixKSYwqhkUyJ06-0">Portfolio Website Design</a></strong>
 

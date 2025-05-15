@@ -106,7 +106,7 @@
 
 - 📋This is my first Web Design, Coffee Bar A warm and inviting atmosphere for a coffee bar website with cozy colors, and easy navigation. Design for seamless viewing.
   
-- 🖌️ WEB DESIGN : <strong><a href="https://www.figma.com/design/OFOe75nRxUIMaCHDC1aUL6/Coffee-Bar-(Community)?node-id=0-1&t=O2sTH6Rx5eWv7zk5-1">Coffee Bar</a></strong>
+- 🖌️ WEB DESIGN : <strong><a href="https://www.figma.com/proto/OFOe75nRxUIMaCHDC1aUL6/Coffee-Bar--Community-?page-id=0%3A1&node-id=203-3&scaling=scale-down-width&content-scaling=fixed&t=Ebg4FjZgAVJ6VpIq-1">Coffee Bar</a></strong>
 
 
 

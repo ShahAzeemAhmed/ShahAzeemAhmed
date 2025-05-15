@@ -35,11 +35,9 @@
 
 - Programming Languages: Kotlin, Python, Java, C
 
-- Backend Development: Ktor
+- Frontend Development: Basic of Kotlin (Android)
 
-- Frontend Development: Kotlin (Android)
-
-- UI/UX Design: Figma
+- UI/UX Design: Figma, AdobeXd
 
 - Mobile Development: Android Studio
 

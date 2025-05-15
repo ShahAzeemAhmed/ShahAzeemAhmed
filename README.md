@@ -14,9 +14,9 @@
  
  - 🌐 My Portfolio : <strong><a href="https://shahazeemahmed.github.io/Portfolio/">Portfolio</a></strong>
  
-- 🌱 I’m currently learning <strong> Kotlin || Android Development</strong>
+- 🌱 I’m currently learning <strong> Figma | UI/UX Design </strong>
 
-- 💬 Ask me about basics <strong> Web Dev, UI/UX Design, CyberSec.</strong>
+- 💬 Ask me about basics <strong> Web Dev, UI/UX Design</strong>
 
 - 📫How to reach me <strong><a href="mailto:shahazeem.ahmed.cs.2021@mitmeerut.ac.in">shahazeem.ahmed.cs.2021@mitmeerut.ac.in</a></strong>
 

@@ -118,13 +118,13 @@
 
 - 📋Designed a simple and clean UI for WallMark, a wallpaper app. The design is easy to use, with a neat layout and smooth interactions for a better user experience.
   
-- 🖌️ APP DESIGN : <strong><a href="https://www.figma.com/proto/nnj6pHH8bmG1tUZhbWn4ze/Venuein?page-id=0%3A1&node-id=25-44&p=f&viewport=-2116%2C-3318%2C0.46&t=tVVBVLUB5GSPRXAW-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=473%3A746">Wallpaper App Design</a></strong>
+- 🖌️ APP DESIGN : <strong><a href="https://www.figma.com/proto/PeBnrz54fwrcwAdgMFOOcK/WallMark--WM-?page-id=0%3A1&node-id=57-333&p=f&viewport=1612%2C-267%2C0.2&t=bv0HilleSltdXUpK-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2%3A2">Wallpaper App Design</a></strong>
 
 
 
 - 📋Created a unique and innovative app design concept for NearSync. This prototype explores a seamless way to share data across devices with a simple and user-friendly interface. The design is not final but represents the core idea and functionality.
   
-- 🖌️ APP DESIGN : <strong><a href="https://www.figma.com/design/1aUpeTV00qpLVQTno7v7kx/NearSync?node-id=0-1&p=f&t=HMolsb5NpW9zY0zE-0">NearSync App Design</a></strong>
+- 🖌️ APP DESIGN : <strong><a href="https://www.figma.com/proto/1aUpeTV00qpLVQTno7v7kx/NearSync?page-id=0%3A1&node-id=26-94&p=f&viewport=2522%2C-89%2C0.12&t=b3UySn71s7DgzyuR-1&scaling=scale-down&content-scaling=fixed">NearSync App Design</a></strong>
 
 
 

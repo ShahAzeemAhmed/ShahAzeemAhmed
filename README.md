@@ -118,7 +118,7 @@
 
 - 📋Designed a simple and clean UI for WallMark, a wallpaper app. The design is easy to use, with a neat layout and smooth interactions for a better user experience.
   
-- 🖌️ APP DESIGN : <strong><a href="https://www.figma.com/design/PeBnrz54fwrcwAdgMFOOcK/WallMark-(WM)?node-id=0-1&t=MM1kpYNkdDAdn5ek-1">Wallpaper App Design</a></strong>
+- 🖌️ APP DESIGN : <strong><a href="https://www.figma.com/proto/nnj6pHH8bmG1tUZhbWn4ze/Venuein?page-id=0%3A1&node-id=25-44&p=f&viewport=-2116%2C-3318%2C0.46&t=tVVBVLUB5GSPRXAW-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=473%3A746">Wallpaper App Design</a></strong>
 
 
 
